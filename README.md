@@ -8,3 +8,4 @@
 - [ ] Starts running when you start PC
 - [ ] Multiple RPC's
 ---
+### **Note: Currently only a promotional RPC to a discord server works, customizablity will be released in the future updates.**
